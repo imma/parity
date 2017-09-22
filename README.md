@@ -1,1 +1,1 @@
-Visit http://defn.sh/parity/ or open `docs/index.html`
+content/parity.md
